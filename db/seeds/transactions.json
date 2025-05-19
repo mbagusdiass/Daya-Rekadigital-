@@ -1,0 +1,22 @@
+[
+    {
+      "customer_id": null,
+      "items": [
+        { "product_id": null, "quantity": 1 },
+        { "product_id": null, "quantity": 2 }
+      ]
+    },
+    {
+      "customer_id": null,
+      "items": [
+        { "product_id": null, "quantity": 3 }
+      ]
+    },
+    {
+      "customer_id": null,
+      "items": [
+        { "product_id": null, "quantity": 1 },
+        { "product_id": null, "quantity": 1 }
+      ]
+    }
+  ]

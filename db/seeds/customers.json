@@ -1,0 +1,62 @@
+[
+    {
+      "name": "Budi Santoso",
+      "email": "budi@example.com",
+      "phone": "08123456781",
+      "address": "Jl. Merdeka No. 1"
+    },
+    {
+      "name": "Ani Wijaya",
+      "email": "ani@example.com",
+      "phone": "08123456782",
+      "address": "Jl. Sudirman No. 12"
+    },
+    {
+      "name": "Citra Dewi",
+      "email": "citra@example.com",
+      "phone": "08123456783",
+      "address": "Jl. Thamrin No. 45"
+    },
+    {
+      "name": "Dodi Pratama",
+      "email": "dodi@example.com",
+      "phone": "08123456784",
+      "address": "Jl. Gatot Subroto No. 8"
+    },
+    {
+      "name": "Eka Sari",
+      "email": "eka@example.com",
+      "phone": "08123456785",
+      "address": "Jl. Asia Afrika No. 67"
+    },
+    {
+      "name": "Fajar Nugraha",
+      "email": "fajar@example.com",
+      "phone": "08123456786",
+      "address": "Jl. Pahlawan No. 23"
+    },
+    {
+      "name": "Gita Permata",
+      "email": "gita@example.com",
+      "phone": "08123456787",
+      "address": "Jl. Diponegoro No. 34"
+    },
+    {
+      "name": "Hadi Susanto",
+      "email": "hadi@example.com",
+      "phone": "08123456788",
+      "address": "Jl. Hayam Wuruk No. 56"
+    },
+    {
+      "name": "Indra Kurniawan",
+      "email": "indra@example.com",
+      "phone": "08123456789",
+      "address": "Jl. Juanda No. 78"
+    },
+    {
+      "name": "Joko Widodo",
+      "email": "joko@example.com",
+      "phone": "08123456780",
+      "address": "Jl. Pemuda No. 90"
+    }
+  ]

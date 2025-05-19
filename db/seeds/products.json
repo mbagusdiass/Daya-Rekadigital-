@@ -1,0 +1,62 @@
+[
+    {
+      "name": "Laptop",
+      "description": "High performance laptop with SSD",
+      "price": 1200.00,
+      "stock": 50
+    },
+    {
+      "name": "Smartphone",
+      "description": "Latest smartphone model",
+      "price": 800.00,
+      "stock": 100
+    },
+    {
+      "name": "Headphones",
+      "description": "Noise cancelling wireless headphones",
+      "price": 250.00,
+      "stock": 75
+    },
+    {
+      "name": "Keyboard",
+      "description": "Mechanical gaming keyboard",
+      "price": 120.00,
+      "stock": 60
+    },
+    {
+      "name": "Mouse",
+      "description": "Wireless ergonomic mouse",
+      "price": 60.00,
+      "stock": 90
+    },
+    {
+      "name": "Monitor",
+      "description": "27-inch 4K monitor",
+      "price": 400.00,
+      "stock": 30
+    },
+    {
+      "name": "Tablet",
+      "description": "10-inch Android tablet",
+      "price": 300.00,
+      "stock": 45
+    },
+    {
+      "name": "Smartwatch",
+      "description": "Fitness tracking smartwatch",
+      "price": 200.00,
+      "stock": 55
+    },
+    {
+      "name": "Printer",
+      "description": "Wireless color printer",
+      "price": 150.00,
+      "stock": 25
+    },
+    {
+      "name": "External HDD",
+      "description": "1TB portable hard drive",
+      "price": 70.00,
+      "stock": 40
+    }
+  ]
