@@ -2,7 +2,7 @@
 
 1. **Clone repository**
    ```sh
-   git clone [https://github.com/mbagusdiass/Daya-Rekadigital.git]
+   git clone https://github.com/mbagusdiass/Daya-Rekadigital.git
    cd backend-DayaRekaDigital
    ```
 
